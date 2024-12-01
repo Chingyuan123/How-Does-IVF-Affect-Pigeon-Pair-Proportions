@@ -24,6 +24,6 @@ ivf_01.dta corresponds to Part 2, and
 
 ivf_02.dta corresponds to Part 3
 
-■	The Data file for figures and tables include the values of figure 1 to 4, as well as table 1  (and Supplementary Material). 
+■	The Data file for figures and tables include the values of figures 1 to 4, as well as table 1  (and Supplementary Material). 
 
 If you have any questions, please contact us at (cychu-3@econ.sinica.edu.tw).
